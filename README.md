@@ -6,7 +6,7 @@ To run the code, you should first put your data downloaded from https://www.kagg
 I have two neural-network-based time series forecasting methods implemented below:
 
 * A naive LSTM-based one, which has only one LSTM as the intermediate layer. Below is a picture of forecasts I made:
-(lstm.png)
+![LSTM result](lstm.png?raw=true "LSTM forecasting picture")
 
 * DeepAR architecture, without ancestral sampling functionality. Below is a picture of forecasts I made:
-(deepar.png)
+![DeepAR result](deepar.png?raw=true "LSTM forecasting picture")
