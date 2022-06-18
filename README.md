@@ -8,7 +8,7 @@ I have two neural-network-based time series forecasting methods implemented belo
 * A naive LSTM-based one, which has only one LSTM as the intermediate layer. Below is a picture of forecasts I made:
 ![LSTM result](lstm.png?raw=true "LSTM forecasting picture")
 
-* DeepAR architecture, without ancestral sampling functionality. Below is a picture of forecasts I made:
+* DeepAR architecture, without ancestral sampling functionality (would require higher amount time to perfectly implement this in Tensorflow). Below is a picture of forecasts I made:
 ![DeepAR result](deepar.png?raw=true "LSTM forecasting picture")
 
 **NOTE**: I have not done any single hyperparameter tunning of the models. These are just implemented for fun, using my M1 macbook, which does not even have CUDA.
