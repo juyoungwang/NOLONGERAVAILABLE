@@ -1,4 +1,4 @@
-# Tensorflow DeepAR implmenetaion for bike sharing demand forecasts
+# Tensorflow DeepAR implemenetaion for bike sharing demand forecasts
 
 This is a toy code I made to do some bike-sharing demand time series forecasting.
 To run the code, you should first put your data downloaded from https://www.kaggle.com/competitions/bike-sharing-demand into the data folder of the repository.
