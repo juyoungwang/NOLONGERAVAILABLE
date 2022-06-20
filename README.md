@@ -12,7 +12,7 @@ I have three neural-network-based time series forecasting methods implemented be
 ![DeepAR result](deepar.png?raw=true "DeepAR-pseudo forecasting picture")
 
 * DeepAR architecture, with ancestral sampling functionality (perfect version). Below is a picture of forecasts I made:
-![DeepARperfect result](deepar.png?raw=true "DeepAR forecasting picture")
+![DeepARperfect result](deepar_perfect.png?raw=true "DeepAR forecasting picture")
 
 My DeepAR implementation differs the other DeepAR tensorflow or pytorch implementaions in the following aspects:
 * My implmentation handles categorical features, by applying embedding layers to each of them in a seperate manner.
