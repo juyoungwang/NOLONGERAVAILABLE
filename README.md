@@ -22,4 +22,6 @@ My DeepAR implementation differs the other DeepAR tensorflow or pytorch implemen
 
 As this model is NON-SEQUENTIAL, I had to use custom training loop with state transfer functionality of keras.lstm.
 
-**NOTE**: I have not done any single hyperparameter tunning of the models. These are just implemented for fun, using my M1 macbook, which does not even have CUDA.
+**NOTE**: 
+* I have not done any single hyperparameter tunning of the models. These are just implemented for fun, using my M1 macbook, which does not even have CUDA.
+* Maybe modularizing the codes would be my next step, though, now I am preparing coding interviews, as I am just a job seeker...
